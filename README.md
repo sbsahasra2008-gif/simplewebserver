@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:22-10-2026
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Device Specifications of your Laptop.
@@ -36,9 +36,52 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Top 5 Revenue Generating Software Companies</title>
+</head>
+<body>
+    <table>
+        <caption>Top 5 Revenue Generating Software Companies</caption>
+        <tr>
+            <th>s.no</th>
+            <th>companies</th>
+            <th>revenue</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Microsoft</td>
+            <td>65 billion</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Oracle</td>
+            <td>29.6 billion</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>IBM</td>
+            <td>29.1 billion</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>SAP</td>
+            <td>6.4 billion</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Symantec</td>
+            <td>5.6 billion</td>
+        </tr>
+    </table>
+</body>
+</html>
 
 
 ## OUTPUT:
+![alt text](<Screenshot 2026-10-22 091239.png>)
+![alt text](<Screenshot 2026-10-22 091940.png>)
 
 
 ## RESULT:
